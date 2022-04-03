@@ -1,7 +1,4 @@
-"""
-Created on Tue Nov 12 11:41:08 2019
-@author: shasha
-"""
+
 import pickle
 import numpy as np
 import matplotlib.pyplot as plt
